@@ -1,0 +1,14 @@
+-1 Outlook=Sunny:1 Temperature=Hot:1 Humidity=High:1 Wind=Weak:1
+-1 Outlook=Sunny:1 Temperature=Hot:1 Humidity=High:1 Wind=Strong:1
+1 Outlook=Overcast:1 Temperature=Hot:1 Humidity=High:1 Wind=Weak:1
+1 Outlook=Rain:1 Temperature=Mild:1 Humidity=High:1 Wind=Weak:1
+1 Outlook=Rain:1 Temperature=Cool:1 Humidity=Normal:1 Wind=Weak:1
+-1 Outlook=Rain:1 Temperature=Cool:1 Humidity=Normal:1 Wind=Strong:1
+1 Outlook=Overcast:1 Temperature=Cool:1 Humidity=Normal:1 Wind=Strong:1
+-1 Outlook=Sunny:1 Temperature=Mild:1 Humidity=High:1 Wind=Weak:1
+1 Outlook=Sunny:1 Temperature=Cool:1 Humidity=Normal:1 Wind=Weak:1
+1 Outlook=Rain:1 Temperature=Mild:1 Humidity=Normal:1 Wind=Weak:1
+1 Outlook=Sunny:1 Temperature=Mild:1 Humidity=Normal:1 Wind=Strong:1
+1 Outlook=Overcast:1 Temperature=Mild:1 Humidity=High:1 Wind=Strong:1
+1 Outlook=Overcast:1 Temperature=Hot:1 Humidity=Normal:1 Wind=Weak:1
+-1 Outlook=Rain:1 Temperature=Mild:1 Humidity=High:1 Wind=Strong:1
