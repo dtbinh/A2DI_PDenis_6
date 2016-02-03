@@ -306,8 +306,8 @@ class PAABinary( PerceptronBinary ):
 		t_lab = int(instance.get_target_label())
 		score = prediction.get_score()
 
-		loss = max(0, 1 - dot(t_lab, score))
-
+		margin = t_lab * dot(w, fv)
+		loss = 0 if margin >= 1.0 else 1.0 - margin
 		t = min(self._C, loss / pow(norm(fv), 2))
 
 		self._weights += dot((t * t_lab), fv)
